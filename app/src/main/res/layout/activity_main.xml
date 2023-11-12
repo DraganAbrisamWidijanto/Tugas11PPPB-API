@@ -12,7 +12,4 @@
         android:id="@+id/rv"
         android:layout_margin="10dp"
         android:background="#fff"/>
-
-
-
 </LinearLayout>
